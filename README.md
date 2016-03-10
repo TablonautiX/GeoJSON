@@ -1,5 +1,5 @@
-# Germany GeoJSON
-A variety of different geo shapes as GeoJSON from germany
+# GeoJSON
+A variety of different geo shapes as GeoJSON
 
 ## germany/PLZ
 Original source from http://www.arnulf.us/PLZ/
