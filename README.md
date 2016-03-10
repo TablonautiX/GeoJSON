@@ -1,4 +1,4 @@
-# Germany Geo JSON
+# Germany GeoJSON
 A variety of different geo shapes as GeoJSON from germany
 
 ## PLZ
