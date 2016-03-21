@@ -13,4 +13,4 @@ Mapshaper http://mapshaper.org/
 QGIS http://qgis.org/en/site/
 
 GDAL ogr2ogr http://www.gdal.org/ogr2ogr.html
-`ogr2ogr -f "GeoJSON" file.geojson file.shp`
+`ogr2ogr -f "GeoJSON" file.geojson file.shp` Convert Shapefile to GeoJSON
